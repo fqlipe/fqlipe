@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**fqlipe/fqlipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📌- 983f
 
-Here are some ideas to get you started:
+> “Todos veem o que você parece ser, poucos percebem o que você realmente é.” — Maquiavel  
+> STW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 - Sobre
+
+Fã n1 de The Mentalist <br>
+Fdão do biri <br>
+Top1 Bridge Semanal<br>
+200 earnings <br>
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) - **STW Systems** → https://dsc.gg/stwotrs 
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) - **Zyph Network** → https://dsc.gg/zyphntw
+
+## 🖥️ - Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 📈 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=fqlipe&show_icons=true&theme=dark)
