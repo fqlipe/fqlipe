@@ -17,8 +17,4 @@ Top1 Bridge Semanal<br>
 ## 🖥️ - Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<div align="center">
-  <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2000&pause=500&color=2F2F2F&center=true&vCenter=true&width=600&lines=%24+who am i?;Felipe;Projects;STW+Systems;Zyph+Network">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2000&pause=500&color=2F2F2F&center=true&vCenter=true&width=600&lines=%24+who am i?;Felipe;Projects;STW+Systems;Zyph+Network" alt="Felipe - Dev | STW | Zyph">
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=525252&width=600&lines=%24+who+am+i%3F;Felipe;Projects;STW+Systems;Zyph+Network)](https://git.io/typing-svg)
