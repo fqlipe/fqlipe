@@ -11,7 +11,7 @@ Fdão do biri <br>
 Top1 Bridge Semanal<br>
 200 earnings <br>
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) - **STW Systems** → https://dsc.gg/stwotrs 
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) - **STW Systems** → https://dsc.gg/stwotrs <br>
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) - **Zyph Network** → https://dsc.gg/zyphntw
 
 ## 🖥️ - Stack
